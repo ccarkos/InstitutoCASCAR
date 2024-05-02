@@ -1,0 +1,69 @@
+body {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    height: 500px;
+    width: 800px;
+    background-image: url(../img/qoipqi.jpg);
+    background-size: cover;
+
+}
+   
+
+.barra {
+    padding: 20px 20px;
+    color: aliceblue;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: black;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 40px;
+    font-size: 50px;
+    font-family: "Bebas Neue", sans-serif;;
+  }
+  .titulo{
+    font-family: "Bebas Neue", sans-serif;
+    color: white;
+    font-size: 50px;
+    margin-top: -10px;
+}
+ 
+.container {
+    
+    width: 500px;
+    max-width: 900px;
+    height: 220px;
+    margin-top: 350px;
+    background: visible;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.397);
+    backdrop-filter: blur(20px);
+    border-radius: 10px;
+    opacity: 9px;
+
+
+}
+
+.verifique {
+    display: flex;
+    justify-content: center;
+    font-family: "BenchNine", sans-serif;
+    font-size: 40px;
+    
+}
+
+.despedida {
+    margin-top: -70px;
+    display: flex;
+    justify-content: center;
+    font-family: "BenchNine", sans-serif;
+    font-size: 40px;
+}
+
